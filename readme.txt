@@ -1,1 +1,2 @@
-Just some spaceholder text.
+Just some placeholder text.
+Another line of placeholder text.
